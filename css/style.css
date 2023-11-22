@@ -17,12 +17,21 @@
     --white-color: #ffffff;
     --gray-color: #888888;
     --avatar-color:#1CBC9C;
-    --blue-color: #2D3E50; 
+    --blue-color: #2D3E50;
+    --bg-blue-color:#2D3E50;
 }
 
 .header-color{
     background-color: var(--header-color);
     min-height: 70px;
+}
+
+.bg-blue-color{
+    background-color: var(--bg-blue-color);
+}
+
+.bg-white{
+    background-color: var(--white-color);
 }
 
 .white-color{
@@ -47,6 +56,12 @@
 
 .w-100{
     width: 100%;
+}
+
+.line{
+    width: 100px;
+    height: 5px;
+    border-radius: 4px;
 }
 
 
