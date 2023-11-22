@@ -19,11 +19,22 @@
     --avatar-color:#1CBC9C;
     --blue-color: #2D3E50;
     --bg-blue-color:#2D3E50;
+    --footer-color-light: #3A546D;
+    --footer-color-dark: #2D3E50;
+    --link-green:#2AA290;
 }
 
 .header-color{
     background-color: var(--header-color);
     min-height: 70px;
+}
+
+.bg-foot-light{
+    background-color: var(--footer-color-light);
+}
+
+.bg-foot-dark{
+    background-color: var(--footer-color-dark);
 }
 
 .bg-green-color{
@@ -48,6 +59,10 @@
 
 .gray-color{
     color: var(--gray-color);
+}
+
+.link-green{
+    color: var(--link-green);
 }
 
 .max-w-300{
