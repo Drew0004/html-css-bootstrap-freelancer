@@ -17,6 +17,7 @@
     --white-color: #ffffff;
     --gray-color: #888888;
     --avatar-color:#1CBC9C;
+    --blue-color: #2D3E50; 
 }
 
 .header-color{
@@ -26,6 +27,10 @@
 
 .white-color{
     color: var(--white-color);
+}
+
+.blue-color{
+    color: var(--blue-color);
 }
 
 .gray-color{
@@ -40,8 +45,8 @@
     background-color: var(--avatar-color);
 }
 
-.line{
-    font-size: 70px;
+.w-100{
+    width: 100%;
 }
 
 
