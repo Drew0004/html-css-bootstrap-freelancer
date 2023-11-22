@@ -12,9 +12,28 @@
     general 
 */
 
+:root{
+    --header-color: #2D3E50;
+    --white-color: #ffffff;
+    --gray-color: #888888;
+}
+
 /* 
     header 
 */
+
+.header-color{
+    background-color: var(--header-color);
+    min-height: 70px;
+}
+
+.white-color{
+    color: var(--white-color);
+}
+
+.gray-color{
+    color: var(--gray-color);
+}
 
 /* 
     main 
