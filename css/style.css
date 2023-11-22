@@ -26,6 +26,10 @@
     min-height: 70px;
 }
 
+.bg-green-color{
+    background-color: var(--avatar-color);
+}
+
 .bg-blue-color{
     background-color: var(--bg-blue-color);
 }
@@ -62,6 +66,10 @@
     width: 100px;
     height: 5px;
     border-radius: 4px;
+}
+
+.mt-50{
+    margin-top: 100px;
 }
 
 
