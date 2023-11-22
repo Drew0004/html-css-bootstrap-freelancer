@@ -87,6 +87,14 @@
     margin-top: 100px;
 }
 
+.fs-mini{
+    font-size: 0.7em;
+}
+
+.fa-stack{
+    vertical-align: top;
+}
+
 
 /* 
     header 
